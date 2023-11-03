@@ -1,0 +1,9 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://artem:artem@clustercloud.qn1r0la.mongodb.net/?retryWrites=true&w=majority",
+  "dbCompasUrl": "mongodb+srv://artem:artem@clustercloud.qn1r0la.mongodb.net/",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\User\\WebstormProjects\\cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\User\\WebstormProjects\\cloud-disk\\server\\static"
+
+}
